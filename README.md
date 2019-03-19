@@ -1,4 +1,4 @@
-# Robofriends
+# [Robofriends](https://robofriends-v01.herokuapp.com/)
 
 Robofriends is a web page that uses a very fun way to display data.
 
@@ -13,6 +13,7 @@ Robofriends is a web page that uses a very fun way to display data.
 - Implementation of [Tachyons](https://tachyons.io/) as a CSS toolkit
 - Using search bar to sort through the data and change the state on changes
 - set up the CSS color linear-gradient
+- Heroku deployment [HERE](https://robofriends-v01.herokuapp.com/)
 
 ## Technologies I used:
 
