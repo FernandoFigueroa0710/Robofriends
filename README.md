@@ -2,10 +2,13 @@
 
 Robofriends is a web page that uses a very fun way to display data.
 
+![alt text](https://github.com/FernandoFigueroa0710/Robofriends/tree/110a388ade318c8692eb51f2edf0656f78dbc81b/src/resources)
+
 ## What have I learned in this project:
 
-- Implentation of [`create-react-app`](https://reactjs.org/docs/create-a-new-react-app.html)
-- MVC architecture
+- Implmentation of [`create-react-app`](https://reactjs.org/docs/create-a-new-react-app.html)
+- MVC architecture for React components
+- Implementation od Redux along with React-Redux to manage state
 - Communicate with [JSONPlaceholder](https://jsonplaceholder.typicode.com/) to retrieve data.
 - Implementation of [Tachyons](https://tachyons.io/) as a CSS toolkit
 - Using search bar to sort through the data and change the state on changes
@@ -15,6 +18,7 @@ Robofriends is a web page that uses a very fun way to display data.
 
 - React
 - React DOM
+- Redux
 - Tachyons
 
 ## Available Scripts
