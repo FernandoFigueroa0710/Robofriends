@@ -2,7 +2,7 @@
 
 Robofriends is a web page that uses a very fun way to display data.
 
-![alt text](https://github.com/FernandoFigueroa0710/Robofriends/tree/110a388ade318c8692eb51f2edf0656f78dbc81b/src/resources)
+![alt text](https://github.com/FernandoFigueroa0710/Robofriends/blob/110a388ade318c8692eb51f2edf0656f78dbc81b/src/resources/Screen%20Shot%202019-03-18%20at%2018.19.56.png)
 
 ## What have I learned in this project:
 
